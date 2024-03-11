@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Abdelaziz
+#### I'm an AI student!
+![I'm an AI student!](https://www.canva.com/design/DAF_OGTkL7Q/cFclmQwvyln4AHqsMoYkDA/edit?utm_content=DAF_OGTkL7Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<!--
-**Abdelaziz-Chatit/Abdelaziz-Chatit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdelaziz from Morocco, studying AI application development at BTS Beni Mellal. I have a passion for AI, programming, and Cyber Security. Stay tuned for exciting projects and updates on my GitHub profile!
 
-Here are some ideas to get you started:
+Skills: MySQL / Python / HTML / CSS / MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
